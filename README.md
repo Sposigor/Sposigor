@@ -1,4 +1,4 @@
-<img src = ".github/2.png.png" width = "500px" align = "right">
+<img src = ".github/2.png.png" width = "325px" align = "right">
  
 ### Bem vindo a minha pagina o gh e espero que possa encontrar coisas uteis aqui no meio dessa bagunça!! <br>
  
