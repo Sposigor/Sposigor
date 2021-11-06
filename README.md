@@ -24,7 +24,7 @@
 ---
 
 <a href="https://github.com/Sposigor/Sposigor">
-  <img align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sposigor&theme=tokyonight" />
+  <img align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sposigor&theme=tokyonight&layout=compact" />
 </a>
 
 <a href="https://github.com/Sposigor/Sposigor">
