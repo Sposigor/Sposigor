@@ -24,11 +24,11 @@
 ---
 
 <a href="https://github.com/Sposigor/Sposigor">
-  <img align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sposigor&theme=tokyonight&layout=compact" />
+  <img height="135" img align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sposigor&theme=tokyonight&layout=compact" />
 </a>
 
 <a href="https://github.com/Sposigor/Sposigor">
-  <img align = "right" src = "https://github-readme-stats.vercel.app/api?username=sposigor&theme=tokyonight&show_icons=false&layout=compact" />
+  <img height="175" img align = "right" src = "https://github-readme-stats.vercel.app/api?username=sposigor&theme=tokyonight&show_icons=false&layout=compact" />
 </a>
 
 <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
