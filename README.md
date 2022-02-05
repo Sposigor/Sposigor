@@ -5,7 +5,7 @@
  
  # Contato
  <a href="https://discord.com/channels/@me/286319896382537729"><img alt="Discord" title="Discord" height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/1/13/Discord_color_D.svg"></a>
- <a><img href="mailto:sposigor@gmail.com" alt="Gmail" height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"></a>
+ <a href="mailto:sposigor@gmail.com"><img alt="Gmail" height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"></a>
  <a href="https://www.kaggle.com/igoresposito"><img alt="Kaggle" height="32" width="32" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png"></a>
 
 
