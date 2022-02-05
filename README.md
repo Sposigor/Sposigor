@@ -1,14 +1,13 @@
-<img src = ".github/2.png.png" width = "325px" align = "right">
- 
-### Bem vindo a minha pagina espero que encontre as coisas uteis aqui no meio dessa bagunça!!
+<p align="center">
+<img src = "https://raw.githubusercontent.com/Sposigor/Sposigor/main/assets/inicio.gif" width = "840px">
+</p>
 
+ 
+ # Contato
+ 
 [![Gmail](https://img.shields.io/badge/Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:sposigor@gmail.com)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/igoresposito)
 
-
-<a href="https://github.com/Sposigor/Caminho_do_Python">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=sposigor&repo=Caminho_do_Python&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
 
 ### Languages and Tools: <img src="https://media.giphy.com/media/8zldD29JNeLRK/giphy.gif?cid=790b7611d4fcbc6e11cf8cc61a78542fb95f28d2a14492de&rid=giphy.gif&ct=s" width="30">
 
@@ -30,5 +29,3 @@
 <a href="https://github.com/Sposigor/Sposigor">
   <img height="175" img align = "right" src = "https://github-readme-stats.vercel.app/api?username=sposigor&theme=tokyonight&show_icons=false&layout=compact" />
 </a>
-
-<img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
