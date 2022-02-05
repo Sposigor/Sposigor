@@ -20,6 +20,11 @@
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 ![Manjaro](https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white)
 
+### Status de codigo
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
 ---
 
 <a href="https://github.com/Sposigor/Sposigor">
