@@ -4,9 +4,9 @@
 
  
  # Contato
- 
-[![Gmail](https://img.shields.io/badge/Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:sposigor@gmail.com)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/igoresposito)
+ <a href="https://discord.com/channels/@me/286319896382537729"><img alt="Discord" title="Discord" height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/1/13/Discord_color_D.svg"></a>
+ <a><img href="mailto:sposigor@gmail.com" alt="Gmail" height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"></a>
+ <a href="https://www.kaggle.com/igoresposito"><img alt="Kaggle" height="32" width="32" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png"></a>
 
 
 ### Languages and Tools: <img src="https://media.giphy.com/media/8zldD29JNeLRK/giphy.gif?cid=790b7611d4fcbc6e11cf8cc61a78542fb95f28d2a14492de&rid=giphy.gif&ct=s" width="30">
