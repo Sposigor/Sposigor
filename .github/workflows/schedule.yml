@@ -1,4 +1,4 @@
-name: Update gist with WakaTime stats
+name: Update README
 on:
   schedule:
     - cron: "0 0 * * *"
@@ -8,7 +8,7 @@ jobs:
     steps:
       - uses: actions/checkout@master
       - name: Update gist
-        uses: matchai/waka-box@master
+        uses: Sposigor/Sposigor@master
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           GIST_ID: 597b33f67ef8965722ec8a47ef0ef0d5
