@@ -23,7 +23,6 @@
 ### Status de codigo
 
 <!--START_SECTION:waka-->
-
 <!--END_SECTION:waka-->
 
 ---
