@@ -35,7 +35,7 @@ No Activity tracked this Week
 </a>
 
 <a href="https://github.com/Sposigor/Sposigor">
-  <img height="175" img align = "right" src = "https://github-readme-stats.vercel.app/api?username=sposigor&theme=tokyonight&show_icons=false&layout=compact" />
+  <img height="135" img align = "right" src = "https://github-readme-stats.vercel.app/api?username=sposigor&theme=tokyonight&show_icons=false&layout=compact" />
 </a>
 
 
