@@ -31,11 +31,11 @@ No Activity tracked this Week
 ---
 
 <a href="https://github.com/Sposigor/Sposigor">
-  <img height="135" width="500" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sposigor&theme=tokyonight&layout=compact" />
+  <img height="135" width="450" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sposigor&theme=tokyonight&layout=compact" />
 </a>
 
 <a href="https://github.com/Sposigor/Sposigor">
-  <img height="135" width="500" src = "https://github-readme-stats.vercel.app/api?username=sposigor&theme=tokyonight&show_icons=false&layout=compact" />
+  <img height="135" width="450" src = "https://github-readme-stats.vercel.app/api?username=sposigor&theme=tokyonight&show_icons=false&layout=compact" />
 </a>
 
 
