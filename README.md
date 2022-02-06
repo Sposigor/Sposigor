@@ -21,6 +21,7 @@
 ![Manjaro](https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white)
 
 ### Status de codigo
+
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
