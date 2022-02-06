@@ -31,6 +31,15 @@
 ### Status de codigo
 
 <!--START_SECTION:waka-->
+```text
+Week: 30 January, 2022 - 05 February, 2022
+
+JSON         12 mins         ███████▓░░░░░░░░░░░░░░░░░   31.22 % 
+Git Config   10 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.16 % 
+Python       8 mins          █████░░░░░░░░░░░░░░░░░░░░   19.88 % 
+JavaScript   7 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.60 % 
+Markdown     1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
+```
 <!--END_SECTION:waka-->
 
 ---
