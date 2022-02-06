@@ -34,3 +34,7 @@
 <a href="https://github.com/Sposigor/Sposigor">
   <img height="175" img align = "right" src = "https://github-readme-stats.vercel.app/api?username=sposigor&theme=tokyonight&show_icons=false&layout=compact" />
 </a>
+
+
+
+[![Amogh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Sposigor&bg_color=000000&color=3620f7&line=5a0c99&point=1adbce&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
