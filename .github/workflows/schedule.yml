@@ -1,15 +1,15 @@
-name: Update README
+name: Waka Readme
+
 on:
+  workflow_dispatch:
   schedule:
     - cron: "0 0 * * *"
+
 jobs:
-  update-gist:
+  update-readme:
+    name: Update this repo's README
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@master
-      - name: Update gist
-        uses: Sposigor/Sposigor@master
-        env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          GIST_ID: 597b33f67ef8965722ec8a47ef0ef0d5
+      - uses: athul/waka-readme@master
+        with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
