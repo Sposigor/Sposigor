@@ -32,13 +32,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 03 February, 2022 - 09 February, 2022
+Week: 04 February, 2022 - 10 February, 2022
 
-HTML         3 hrs 49 mins   █████████▓░░░░░░░░░░░░░░░   39.07 % 
-JavaScript   3 hrs 21 mins   ████████▓░░░░░░░░░░░░░░░░   34.19 % 
-Python       1 hr 22 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.08 % 
-CSS          47 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
-JSON         12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
+Python       8 hrs 38 mins   █████████▓░░░░░░░░░░░░░░░   38.99 % 
+HTML         6 hrs 13 mins   ███████░░░░░░░░░░░░░░░░░░   28.05 % 
+JavaScript   3 hrs 21 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.13 % 
+CSS          55 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
+YAML         45 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
 ```
 <!--END_SECTION:waka-->
 
