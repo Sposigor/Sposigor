@@ -32,13 +32,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 11 February, 2022 - 17 February, 2022
-
-Python   4 hrs 7 mins    ███████████████▒░░░░░░░░░   61.09 % 
-HTML     1 hr 12 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.85 % 
-Other    25 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
-Text     21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
-YAML     15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
