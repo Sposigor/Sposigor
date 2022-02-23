@@ -32,7 +32,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 16 February, 2022 - 22 February, 2022
+
+Python       3 hrs 56 mins   █████████████████████░░░░   84.59 % 
+Text         15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
+CSV          15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
+Git Config   8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
+TOML         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
 ```
 <!--END_SECTION:waka-->
 
