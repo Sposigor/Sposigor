@@ -32,7 +32,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 26 February, 2022 - 04 March, 2022
+Week: 27 February, 2022 - 05 March, 2022
 
 Markdown     20 hrs 48 mins  █████████████████████▓░░░   86.52 % 
 HTML         2 hrs 7 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
