@@ -36,13 +36,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 28 February, 2022 - 06 March, 2022
+Week: 01 March, 2022 - 07 March, 2022
 
-Markdown     22 hrs 13 mins  █████████████████████░░░░   84.36 % 
-HTML         2 hrs 17 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
-JavaScript   42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
-YAML         28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
-Git Config   21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+Markdown     26 hrs 54 mins  ██████████████████████▓░░   91.06 % 
+HTML         1 hr 4 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
+JavaScript   42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+Git Config   21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
+YAML         21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
 ```
 <!--END_SECTION:waka-->
 
