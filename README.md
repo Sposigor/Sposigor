@@ -36,7 +36,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 02 March, 2022 - 08 March, 2022
+Week: 03 March, 2022 - 09 March, 2022
 
 Markdown     37 hrs 49 mins  ██████████████████████▓░░   90.89 % 
 Python       1 hr 19 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
