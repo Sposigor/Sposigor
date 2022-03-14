@@ -36,11 +36,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 06 March, 2022 - 12 March, 2022
+Week: 07 March, 2022 - 13 March, 2022
 
-Markdown   19 hrs 49 mins  ██████████████████████▓░░   90.62 % 
-Python     1 hr 33 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
-YAML       29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
+Markdown   15 hrs 2 mins   ██████████████████████░░░   88.49 % 
+Python     1 hr 33 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.13 % 
+YAML       23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
 ```
 <!--END_SECTION:waka-->
 
