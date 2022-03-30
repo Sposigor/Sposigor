@@ -43,12 +43,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 22 March, 2022 - 28 March, 2022
+Week: 23 March, 2022 - 29 March, 2022
 
-Python     2 hrs 51 mins   ███████████████████████▓░   94.93 % 
-JSON       3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
-Text       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
-Markdown   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
+Python     1 hr 4 mins     █████████████████████████   99.42 % 
 ```
 <!--END_SECTION:waka-->
 
