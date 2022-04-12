@@ -43,11 +43,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 04 April, 2022 - 10 April, 2022
+Week: 05 April, 2022 - 11 April, 2022
 
-Python       2 hrs 32 mins   ████████████████████████░   96.15 % 
-HTML         4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
-Bash         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+Python       7 hrs 54 mins   ████████████████████████▓   98.71 % 
+HTML         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+Markdown     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 ```
 <!--END_SECTION:waka-->
 
