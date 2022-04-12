@@ -2,7 +2,7 @@
 <img src = "https://raw.githubusercontent.com/Sposigor/Sposigor/main/assets/inicio.gif" width = "840px">
 </p>
 
- 
+
 ### Contato
  <a href="https://discord.com/channels/@me/286319896382537729"><img alt="Discord" title="Discord" height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/1/13/Discord_color_D.svg"></a>
  <a href="mailto:sposigor@gmail.com"><img alt="Gmail" height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"></a>
@@ -65,3 +65,10 @@ Markdown     1 min           ░░░░░░░░░░░░░░░░░
 ---
 
 [![Amogh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Sposigor&bg_color=000000&color=3620f7&line=5a0c99&point=1adbce&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<h3 align="center"> Visitas Recebidas </h3>
+<p align="center">
+  <a href="https://github.com/Sposigor/github-profile-count">
+    <img align="center" src="https://profile-counter.glitch.me/{Sposigor}/count.svg" />
+    </a>
+  </p>
