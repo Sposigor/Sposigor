@@ -43,13 +43,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 10 April, 2022 - 16 April, 2022
+Week: 11 April, 2022 - 17 April, 2022
 
-Python       11 hrs 51 mins  █████████████████████▒░░░   85.78 % 
-Other        55 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
-Markdown     39 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
-Processing   15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
-Properties   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+Python       11 hrs 53 mins  █████████████████████▒░░░   85.18 % 
+Other        1 hr 1 min      ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
+Markdown     39 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
+Processing   15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
+Properties   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 ```
 <!--END_SECTION:waka-->
 
