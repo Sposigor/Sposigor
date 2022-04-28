@@ -43,10 +43,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 20 April, 2022 - 26 April, 2022
+Week: 21 April, 2022 - 27 April, 2022
 
-Python   40 mins         ███████████████████▒░░░░░   77.63 % 
-Other    11 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.37 % 
+Python   1 hr 32 mins    ███████████████▓░░░░░░░░░   63.33 % 
+Other    53 mins         █████████░░░░░░░░░░░░░░░░   36.62 % 
 ```
 <!--END_SECTION:waka-->
 
