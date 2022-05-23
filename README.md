@@ -43,11 +43,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 15 May, 2022 - 21 May, 2022
+Week: 16 May, 2022 - 22 May, 2022
 
-Python   5 hrs 30 mins   ████████████████████████░   95.88 % 
-INI      11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
-TOML     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+Python   4 hrs 4 mins    █████████████████████████   99.64 % 
 ```
 <!--END_SECTION:waka-->
 
