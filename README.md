@@ -43,7 +43,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 18 May, 2022 - 24 May, 2022
+Week: 19 May, 2022 - 25 May, 2022
 
 Python   2 hrs 58 mins   █████████████████████████   99.58 % 
 ```
