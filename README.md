@@ -43,9 +43,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 21 May, 2022 - 27 May, 2022
-
-Python   42 mins         ████████████████████████▓   98.25 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
