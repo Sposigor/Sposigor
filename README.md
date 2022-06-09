@@ -43,7 +43,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 01 June, 2022 - 07 June, 2022
+Week: 02 June, 2022 - 08 June, 2022
 
 Python   6 mins          █████████████████████████   100.00 % 
 ```
