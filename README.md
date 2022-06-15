@@ -43,9 +43,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 07 June, 2022 - 13 June, 2022
+Week: 08 June, 2022 - 14 June, 2022
 
-Python   6 mins          █████████████████████████   99.86 % 
+Python   1 min           ████████████████████████▓   99.08 % 
 ```
 <!--END_SECTION:waka-->
 
