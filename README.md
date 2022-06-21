@@ -43,7 +43,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 13 June, 2022 - 19 June, 2022
+Week: 14 June, 2022 - 20 June, 2022
 
 
 ```
