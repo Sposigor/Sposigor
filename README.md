@@ -43,9 +43,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 14 June, 2022 - 20 June, 2022
-
-
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
