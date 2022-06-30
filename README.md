@@ -43,7 +43,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 23 June, 2022 - 29 June, 2022
+
+Python   33 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
