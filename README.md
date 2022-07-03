@@ -43,10 +43,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 25 June, 2022 - 01 July, 2022
+Week: 26 June, 2022 - 02 July, 2022
 
-Python   2 hrs 11 mins   █████████████████████░░░░   84.51 % 
-Other    23 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.21 % 
+Python   2 hrs 11 mins   ████████████████████░░░░░   80.28 % 
+Other    23 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.38 % 
+Text     8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
 ```
 <!--END_SECTION:waka-->
 
