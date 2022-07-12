@@ -43,10 +43,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 04 July, 2022 - 10 July, 2022
+Week: 05 July, 2022 - 11 July, 2022
 
-PHP          37 mins         ██████████████████████▒░░   89.91 % 
-JSON         4 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
+JSON   4 mins          █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
