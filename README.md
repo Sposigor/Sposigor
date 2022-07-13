@@ -43,9 +43,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 05 July, 2022 - 11 July, 2022
-
-JSON   4 mins          █████████████████████████   100.00 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
