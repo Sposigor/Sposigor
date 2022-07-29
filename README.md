@@ -43,11 +43,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 21 July, 2022 - 27 July, 2022
+Week: 22 July, 2022 - 28 July, 2022
 
-Other    6 mins          ██████████████▓░░░░░░░░░░   59.21 % 
-PHP      2 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.14 % 
-Python   2 mins          █████░░░░░░░░░░░░░░░░░░░░   19.64 % 
+Other   6 mins          █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
