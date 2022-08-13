@@ -43,10 +43,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 04 August, 2022 - 10 August, 2022
+Week: 06 August, 2022 - 12 August, 2022
 
-Python   33 mins         ███████████████░░░░░░░░░░   60.59 % 
-HTML     21 mins         █████████▓░░░░░░░░░░░░░░░   38.63 % 
+Python   2 hrs 40 mins   ██████████████████████▒░░   89.07 % 
+Bash     19 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
 ```
 <!--END_SECTION:waka-->
 
