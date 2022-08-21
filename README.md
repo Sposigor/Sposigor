@@ -43,9 +43,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 13 August, 2022 - 19 August, 2022
-
-Python   3 mins          █████████████████████████   100.00 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
