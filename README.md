@@ -1,13 +1,17 @@
-<h1 align="center" >Hello my name is <a href="https://www.linkedin.com/in/igor-esposito-656628246/" target="_blank"> Igor Esposito </a> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px" height="25px">
-<h3 align="center">A Data Engineer from Brazil who are always learning.</h3>
+<h3 align="center" >Welcome to Igor Esposito profile! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px" height="25px">
 
----
-### Contact
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4500&pause=500&color=22C3E6&center=true&vCenter=true&width=435&lines=Data+Engineer+and+Economist;Experience+with+AWS%2C+GCP+and+Azure.;Always+learning+new+things." alt="Typing SVG" /></a>
+</p>
 
- <a href="https://discord.com/channels/@me/286319896382537729"><img alt="Discord" title="Discord" height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/1/13/Discord_color_D.svg"></a>
- <a href="mailto:sposigor@gmail.com"><img alt="Gmail" height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"></a>
- <a href="https://www.kaggle.com/igoresposito"><img alt="Kaggle" height="32" width="32" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png"></a>
+<p align="center">
+<a href="https://discord.com/channels/@me/286319896382537729"><img alt="Discord" title="Discord" height="32" width="32" src="assets/discord.svg"></a>
+<a href="mailto:sposigor@gmail.com"><img alt="Gmail" title="Gmail" height="32" width="32" src="assets/gmail.svg"></a>
+<a href="https://dev.to/sposigor"><img alt="DEV" title="DEV" height="32" width="32" src="assets/dev.svg"></a>
+<a href="https://twitter.com/sposigor"><img alt="Twitter" title="Twitter" height="32" width="32" src="assets/twitter.svg"></a>
+<a href="https://www.linkedin.com/in/igor-esposito-656628246/"><img alt="Linkedin" title="Linkedin" height="32" width="32" src="assets/linkedin.svg"></a>
 
+</p>
 ---
 
 ### Tools and Languages: <img src="https://media.giphy.com/media/8zldD29JNeLRK/giphy.gif?cid=790b7611d4fcbc6e11cf8cc61a78542fb95f28d2a14492de&rid=giphy.gif&ct=s" width="30">
