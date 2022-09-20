@@ -25,10 +25,7 @@
 </p>
 
 ![Contador de Visualizações](https://komarev.com/ghpvc/?username=sposigor&style=for-the-badge)
-  
  
-
-
 ### Tools and Languages: <img src="https://media.giphy.com/media/8zldD29JNeLRK/giphy.gif?cid=790b7611d4fcbc6e11cf8cc61a78542fb95f28d2a14492de&rid=giphy.gif&ct=s" width="30">
 
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
@@ -64,7 +61,6 @@
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Libre Office](https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=LibreOffice&logoColor=white)
 
-
 ### Code status
 
 <!--START_SECTION:waka-->
@@ -72,7 +68,11 @@
 No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
-
+  
+---
+# Blog
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 ---
 <div align="center">
 
