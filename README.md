@@ -5,11 +5,11 @@
 </p>
 
 <p align="center">
-<a href="https://discord.com/users/286319896382537729" target="_blank"><img alt="Discord" title="Discord" height="32" width="32" src="assets/discord.svg"></a>
+<a href="https://discord.com/users/286319896382537729" target="_blank" rel="noopener noreferrer"><img alt="Discord" title="Discord" height="32" width="32" src="assets/discord.svg"></a>
 <a href="mailto:sposigor@gmail.com"><img alt="Gmail" title="Gmail" height="32" width="32" src="assets/gmail.svg"></a>
-<a href="https://dev.to/sposigor" target="_blank"><img alt="DEV" title="DEV" height="32" width="32" src="assets/dev.svg"></a>
-<a href="https://twitter.com/sposigor" target="_blank"><img alt="Twitter" title="Twitter" height="32" width="32" src="assets/twitter.svg"></a>
-<a href="https://www.linkedin.com/in/igor-esposito-656628246/" target="_blank"><img alt="Linkedin" title="Linkedin" height="32" width="32" src="assets/linkedin.svg"></a>
+<a href="https://dev.to/sposigor" target="_blank" rel="noopener noreferrer"><img alt="DEV" title="DEV" height="32" width="32" src="assets/dev.svg"></a>
+<a href="https://twitter.com/sposigor" target="_blank" rel="noopener noreferrer"><img alt="Twitter" title="Twitter" height="32" width="32" src="assets/twitter.svg"></a>
+<a href="https://www.linkedin.com/in/igor-esposito-656628246/" target="_blank" rel="noopener noreferrer"><img alt="Linkedin" title="Linkedin" height="32" width="32" src="assets/linkedin.svg"></a>
 </p>
 
 <p align="center">
