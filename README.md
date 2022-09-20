@@ -10,9 +10,23 @@
 <a href="https://dev.to/sposigor"><img alt="DEV" title="DEV" height="32" width="32" src="assets/dev.svg"></a>
 <a href="https://twitter.com/sposigor"><img alt="Twitter" title="Twitter" height="32" width="32" src="assets/twitter.svg"></a>
 <a href="https://www.linkedin.com/in/igor-esposito-656628246/"><img alt="Linkedin" title="Linkedin" height="32" width="32" src="assets/linkedin.svg"></a>
-
 </p>
----
+
+<p align="center">
+  <a href="https://www.youtube.com/channel/UC7lg927A8TUwL8RWCOD2y9Q?sub_confirmation=1">
+    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC7lg927A8TUwL8RWCOD2y9Q?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
+  <a href="https://www.youtube.com/c/DevProTips">
+    <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC7lg927A8TUwL8RWCOD2y9Q?color=%23E1AD0E&logo=video&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
+  <a href="https://github.com/sposigor?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/sposigor?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  <a href="https://github.com/sposigor?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/sposigor?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+</p>
+
+![Contador de Visualizações](https://komarev.com/ghpvc/?username=sposigor&style=for-the-badge)
+  
+ 
+
 
 ### Tools and Languages: <img src="https://media.giphy.com/media/8zldD29JNeLRK/giphy.gif?cid=790b7611d4fcbc6e11cf8cc61a78542fb95f28d2a14492de&rid=giphy.gif&ct=s" width="30">
 
