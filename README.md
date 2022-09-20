@@ -70,7 +70,7 @@ No Activity tracked this Week
 <!--END_SECTION:waka-->
   
 ---
-# Blog
+### Blog
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 ---
