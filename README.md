@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-<a href="https://discord.com/channels/@me/286319896382537729"><img alt="Discord" title="Discord" height="32" width="32" src="assets/discord.svg"></a>
+<a href="discordapp.com/users/286319896382537729"><img alt="Discord" title="Discord" height="32" width="32" src="assets/discord.svg"></a>
 <a href="mailto:sposigor@gmail.com"><img alt="Gmail" title="Gmail" height="32" width="32" src="assets/gmail.svg"></a>
 <a href="https://dev.to/sposigor"><img alt="DEV" title="DEV" height="32" width="32" src="assets/dev.svg"></a>
 <a href="https://twitter.com/sposigor"><img alt="Twitter" title="Twitter" height="32" width="32" src="assets/twitter.svg"></a>
