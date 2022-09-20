@@ -72,6 +72,7 @@ No Activity tracked this Week
 ---
 ### Blog
 <!-- BLOG-POST-LIST:START -->
+- [Manjaro Pós Instalação](https://dev.to/sposigor/manjaro-pos-instalacao-1de5)
 <!-- BLOG-POST-LIST:END -->
 ---
 <div align="center">
