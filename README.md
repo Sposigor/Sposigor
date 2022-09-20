@@ -10,7 +10,7 @@
 <a href="https://dev.to/sposigor" target="_blank" rel="noopener noreferrer"><img alt="DEV" title="DEV" height="32" width="32" src="assets/dev.svg"></a>
 <a href="https://twitter.com/sposigor" target="_blank" rel="noopener noreferrer"><img alt="Twitter" title="Twitter" height="32" width="32" src="assets/twitter.svg"></a>
 <a href="https://www.linkedin.com/in/igor-esposito-656628246/" target="_blank" rel="noopener noreferrer"><img alt="Linkedin" title="Linkedin" height="32" width="32" src="assets/linkedin.svg"></a>
-<a href="https://igor-esposito.herokuapp.com/" target="_blank" rel="noopener noreferrer"><img alt="Linkedin" title="Linkedin" height="32" width="32" src="assets/internet.svg"></a>
+<a href="https://igor-esposito.herokuapp.com/" target="_blank" rel="noopener noreferrer"><img alt="Website" title="Portfolio" height="32" width="32" src="assets/internet.svg"></a>
 </p>
 
 <p align="center">
