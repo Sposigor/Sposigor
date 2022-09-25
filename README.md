@@ -65,10 +65,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 17 September, 2022 - 23 September, 2022
+Week: 18 September, 2022 - 24 September, 2022
 
-Python   1 hr 34 mins    ████████████████████████▓   98.64 % 
-JSON     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
+Python   2 hrs 36 mins   ████████████████████████▓   99.06 % 
+JSON     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
 ```
 <!--END_SECTION:waka-->
   
