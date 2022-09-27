@@ -65,7 +65,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 19 September, 2022 - 25 September, 2022
+Week: 20 September, 2022 - 26 September, 2022
 
 Python   3 hrs           ████████████████████░░░░░   80.29 % 
 INI      21 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
