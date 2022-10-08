@@ -65,11 +65,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 30 September, 2022 - 06 October, 2022
+Week: 01 October, 2022 - 07 October, 2022
 
-Python     1 hr 38 mins    ████████████████████▓░░░░   83.00 % 
-Rust       10 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
-TOML       8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
+Python     1 hr 34 mins    ████████████████████▓░░░░   82.41 % 
+Rust       10 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
+TOML       8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
 ```
 <!--END_SECTION:waka-->
   
