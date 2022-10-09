@@ -65,7 +65,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 01 October, 2022 - 07 October, 2022
+Week: 02 October, 2022 - 08 October, 2022
 
 Python     1 hr 34 mins    ████████████████████▓░░░░   82.41 % 
 Rust       10 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
