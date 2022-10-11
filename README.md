@@ -65,7 +65,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 03 October, 2022 - 09 October, 2022
+Week: 04 October, 2022 - 10 October, 2022
 
 Python   1 hr 33 mins    ██████████████████████▓░░   91.33 % 
 TOML     8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
