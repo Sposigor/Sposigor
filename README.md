@@ -65,10 +65,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 05 October, 2022 - 11 October, 2022
-
-Python   1 hr 9 mins     ██████████████████████▒░░   88.73 % 
-TOML     8 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
   
