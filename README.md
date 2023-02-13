@@ -64,9 +64,17 @@
 ### Code status
 
 <!--START_SECTION:waka-->
+
 ```text
-No Activity tracked this Week
+From: 06 February 2023 - To: 13 February 2023
+
+Python      4 hrs 23 mins   ██████████████████░░░░░░░   71.74 %
+Bash        42 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.59 %
+Batchfile   35 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.56 %
+Docker      25 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.01 %
+Other       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
+
 <!--END_SECTION:waka-->
   
 ---
