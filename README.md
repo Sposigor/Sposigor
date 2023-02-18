@@ -66,13 +66,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 February 2023 - To: 16 February 2023
+From: 10 February 2023 - To: 17 February 2023
 
-Rust     45 mins         █████████████████▒░░░░░░░   69.09 %
-Python   19 mins         ███████▒░░░░░░░░░░░░░░░░░   29.74 %
-TOML     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
-Text     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
-Docker   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Rust     2 hrs 22 mins   ███████████████████████▓░   95.33 %
+Python   6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 %
+TOML     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
+Docker   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
