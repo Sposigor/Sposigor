@@ -66,10 +66,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 17 July 2023 - To: 24 July 2023
+From: 18 July 2023 - To: 25 July 2023
 
-Python   53 mins         █████████████████████████   99.58 %
-TOML     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
+Rust     1 hr 14 mins    ██████████████▒░░░░░░░░░░   57.31 %
+Python   54 mins         ██████████▓░░░░░░░░░░░░░░   42.52 %
+TOML     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
 ```
 
 <!--END_SECTION:waka-->
