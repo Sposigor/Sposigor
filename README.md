@@ -66,11 +66,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 August 2023 - To: 17 August 2023
+From: 11 August 2023 - To: 18 August 2023
 
-Rust         28 mins         █████████████████████▒░░░   85.24 %
-TOML         4 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.25 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
