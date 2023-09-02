@@ -66,11 +66,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 24 August 2023 - To: 31 August 2023
+From: 25 August 2023 - To: 01 September 2023
 
-TOML     25 mins         ████████████▓░░░░░░░░░░░░   50.23 %
-Python   25 mins         ████████████▒░░░░░░░░░░░░   49.35 %
-Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+Python   29 mins         █████████████▒░░░░░░░░░░░   53.31 %
+TOML     25 mins         ███████████▓░░░░░░░░░░░░░   46.30 %
+Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 ```
 
 <!--END_SECTION:waka-->
