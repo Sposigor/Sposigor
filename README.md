@@ -66,9 +66,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 20 September 2023 - To: 27 September 2023
+From: 21 September 2023 - To: 28 September 2023
 
-Python   0 secs          █████████████████████████   100.00 %
+Python       45 mins         ████████████████░░░░░░░░░   64.56 %
+GDScript3    11 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.74 %
+HTML         6 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 %
+Git Config   3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 %
+CSS          1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 %
+TOML         1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
 ```
 
 <!--END_SECTION:waka-->
