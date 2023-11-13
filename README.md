@@ -1,4 +1,4 @@
-<h3 align="center" >Welcome to Igor Esposito profile! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px" height="25px">
+<h3 align="center" >Welcome to Igor Esposito profile!</h3>
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4500&pause=500&color=22C3E6&center=true&vCenter=true&width=435&lines=Data+Engineer+and+Economist;Experience+with+AWS%2C+GCP+and+Azure.;Always+learning+new+things." alt="Typing SVG" /></a>
