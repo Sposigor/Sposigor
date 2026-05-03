@@ -1,9 +1,9 @@
 Hello there 👋
 
-Tech Data Lead at PortoBank, focused on data platforms, cloud infrastructure and automation.
+Tech Data Lead at PortoBank.
 
-Building personal financial and AI-driven products outside working hours.
+Focused on data platforms, cloud infrastructure and intelligent automation.
 
-⚙️ Python • Databricks • Cloud • Automation • AI
+⚙️ Python • Go • Cloud • AI • Distributed Systems
 
-🌍 Passionate about scalable systems, product engineering and intelligent workflows.
+🌍 Building scalable products and financial systems.
